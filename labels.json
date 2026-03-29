@@ -1,0 +1,47 @@
+[
+	{
+		"color": "b60205",
+		"description": "Something isn't working as expected.",
+		"name": "bug"
+	},
+	{
+		"color": "0366d6",
+		"description": "Pull requests that update GitHub Action versions.",
+		"name": "dependabot: github-actions"
+	},
+	{
+		"color": "0366d6",
+		"description": "Pull requests that update npm dependencies.",
+		"name": "dependabot: npm"
+	},
+	{
+		"color": "ffffff",
+		"description": "Improvements or additions to documentation.",
+		"name": "documentation"
+	},
+	{
+		"color": "d3d3d3",
+		"description": "This issue or pull request already exists.",
+		"name": "duplicate"
+	},
+	{
+		"color": "00FF7F",
+		"description": "New feature or request.",
+		"name": "enhancement"
+	},
+	{
+		"color": "d4c5f9",
+		"description": "Good for newcomers.",
+		"name": "good first issue"
+	},
+	{
+		"color": "fbca04",
+		"description": "Extra attention is needed.",
+		"name": "help wanted"
+	},
+	{
+		"color": "D2B48C",
+		"description": "This will not be worked on.",
+		"name": "wontfix"
+	}
+]

@@ -1,0 +1,5 @@
+# Default owner for everything in the repository.
+* @germanfrelo
+
+# Explicitly protects this file using the same ownership rule.
+/.github/CODEOWNERS @germanfrelo
