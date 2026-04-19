@@ -1,0 +1,66 @@
+[
+	{
+		"id": "5ba3b14c",
+		"name": "Bug",
+		"description": "An unexpected problem or behavior.",
+		"color": "RED",
+		"color_fg": "#d1242f",
+		"color_bg": "#ffebe9"
+	},
+	{
+		"id": "614b8374",
+		"name": "Build",
+		"description": "Updates to the build system, scripts, or dependencies.",
+		"color": "ORANGE",
+		"color_fg": "#bc4c00",
+		"color_bg": "#fff1e5"
+	},
+	{
+		"id": "9b93c27b",
+		"name": "Chore",
+		"description": "Updates to tools, configurations, or libraries; no production code changes.",
+		"color": "GRAY",
+		"color_fg": "#59636e",
+		"color_bg": "#f6f8fa"
+	},
+	{
+		"id": "c897aa95",
+		"name": "Docs",
+		"description": "Improvements or additions to documentation.",
+		"color": "YELLOW",
+		"color_fg": "#9a6700",
+		"color_bg": "#fff8c5"
+	},
+	{
+		"id": "60a6dbc9",
+		"name": "Feature",
+		"description": "A new function or capability for the user.",
+		"color": "BLUE",
+		"color_fg": "#0969da",
+		"color_bg": "#ddf4ff"
+	},
+	{
+		"id": "e9c93ff1",
+		"name": "Performance",
+		"description": "Improvements to execution speed or load times.",
+		"color": "GREEN",
+		"color_fg": "#1a7f37",
+		"color_bg": "#dafae0"
+	},
+	{
+		"id": "b952739c",
+		"name": "Refactor",
+		"description": "Restructuring logic to improve code quality without changing behavior.",
+		"color": "PURPLE",
+		"color_fg": "#8250df",
+		"color_bg": "#fbefff"
+	},
+	{
+		"id": "b0a69197",
+		"name": "Style",
+		"description": "Formatting changes that do not affect meaning (e.g., whitespace).",
+		"color": "PINK",
+		"color_fg": "#bf3989",
+		"color_bg": "#ffeff7"
+	}
+]
