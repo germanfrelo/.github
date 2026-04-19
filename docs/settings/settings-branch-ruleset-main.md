@@ -11,8 +11,9 @@ URL: `https://github.com/<owner>/<repo>/settings/rules`
 
 ## Bypass list
 
-- Repository admin (Role): `Allow for pull requests only`
-  <br>*Self note: Admin can bypass via PR; cannot push directly to main.*
+- Repository admin (Role): `Always`
+  <br>*Self note: Admin can always bypass; direct pushes to main allowed
+  (use `--force-with-lease`, never `--force`).*
 
 ## Target branches
 
