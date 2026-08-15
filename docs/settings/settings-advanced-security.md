@@ -1,6 +1,6 @@
 # Settings / Advanced Security
 
-URL: `https://github.com/<owner>/<repo>/settings/security_analysis`
+URL: `https://github.com/{owner}/{repo}/settings/security_analysis`
 
 | Feature | Status |
 | :--- | :--- |

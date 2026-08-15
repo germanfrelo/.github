@@ -1,6 +1,6 @@
 # Settings / Rulesets / Branch ruleset: `main`
 
-URL: `https://github.com/<owner>/<repo>/settings/rules`
+URL: `https://github.com/{owner}/{repo}/settings/rules`
 
 > [!IMPORTANT]
 > **Forked repositories:**
